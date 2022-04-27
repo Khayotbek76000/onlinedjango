@@ -1,0 +1,42 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E305" />
+          <option value="E302" />
+          <option value="W292" />
+          <option value="E303" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.random_lis_of_nums" />
+          <option value="main.moviepy" />
+          <option value="file.client_nam" />
+          <option value="test.account" />
+          <option value="ооп_соцсетей.worker_position" />
+          <option value="main.get_name" />
+          <option value="main.user_id" />
+          <option value="упражнения.a" />
+          <option value="bot11.user_id" />
+          <option value="telebot.Telebot" />
+          <option value="bot.telebot" />
+          <option value="telebot" />
+          <option value="data.user" />
+          <option value="data.u" />
+          <option value="data.sql" />
+          <option value="data.user_ids" />
+          <option value="data.conn" />
+          <option value="dataa.user_ids" />
+          <option value="dataa.conn" />
+          <option value="data1" />
+          <option value="data1.f" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
